@@ -21,13 +21,13 @@ class App extends Component {
    todos.push({id: this.state.nextId, text: todoText});
    this.setState({
      todos: todos,
-     nextId: ++this.state.nextId
+     nextId: ++this.setState.nextId
    })
   }
 
   removeTodo(id){
     this.setState({
-      todos: this.state.todos.filter((todo, index) => todo.id != id)
+      todos: this.state.todos.filter((todo, index) => todo.id !== id)
     })
   }
   
