@@ -30,5 +30,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 Technologies
+
 JavaScript - ECMAScript 6
 React.js - version 16.5.2
