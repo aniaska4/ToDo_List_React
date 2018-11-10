@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Technologies
+Technologies:
 
 JavaScript - ECMAScript 6
 React.js - version 16.5.2
