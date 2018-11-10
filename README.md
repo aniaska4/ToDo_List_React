@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Technologies
+
+JavaScript - ECMAScript 6
+React.js - version 16.5.2
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -29,7 +35,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-Technologies
-
-JavaScript - ECMAScript 6
-React.js - version 16.5.2
